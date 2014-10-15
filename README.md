@@ -1,4 +1,4 @@
-Android-async-pool-task-executor
+Android 
 ================================
 
-Android Async Pool Task Executor
+Async Pool Task Executor
