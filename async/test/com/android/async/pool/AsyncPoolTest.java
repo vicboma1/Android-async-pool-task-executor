@@ -40,7 +40,7 @@ public class AsyncPoolTest {
 
     @Test
     public void testExecuteQueue() throws Exception {
-        AtomicInteger uid = new AtomicInteger(0);
+        final AtomicInteger uid = new AtomicInteger(0);
         final int expected = 1000;
         for(int i = 0; i< expected; i++)
             asyncPool.executeQueue(() -> uid.getAndIncrement());
