@@ -64,4 +64,21 @@ Note: Android no accept lambdas with java 8 in Intellij.
 ```
 Note : Not return a value as a promise or the like. Only process the lambda.
 
+## Configuration
+
+You can create the jar like a library :
+
+``` jar cvf <name.jar> <folder/roots.class> ```
+
+and import in Intellij:
+
+![](http://s14.postimg.org/i1vsentxd/Screen_Shot_2014_10_16_at_16_16_02.png)
+
+or like a "module dependency" including this project :
+
+![](http://s27.postimg.org/e42va8as3/Screen_Shot_2014_10_16_at_17_16_46.png)
+
+
+
+
 
