@@ -1,7 +1,6 @@
 package com.android.async.pool;
 
 import android.annotation.SuppressLint;
-import com.android.async.threadFactory.AsyncThreadFactory;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
