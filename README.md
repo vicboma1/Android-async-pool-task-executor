@@ -82,3 +82,7 @@ or like a "module dependency" including this project :
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/android-async-pool-task-executor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
