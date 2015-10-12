@@ -1,7 +1,7 @@
 Android 
 ================================
 
-[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/injector/readme)](https://github.com/igrigorik/ga-beacon)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/android-async-pool-task-executor/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/injector/readme)](https://github.com/igrigorik/ga-beacon)
 
 ##Async Pool Task Executor
 
@@ -86,5 +86,5 @@ or like a "module dependency" including this project :
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/android-async-pool-task-executor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
