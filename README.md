@@ -1,6 +1,8 @@
 Android 
 ================================
 
+[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/injector/readme)](https://github.com/igrigorik/ga-beacon)
+
 ##Async Pool Task Executor
 
 APTE is an java application framework for android.
