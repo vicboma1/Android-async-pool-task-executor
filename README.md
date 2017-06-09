@@ -1,6 +1,5 @@
 Android 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/android-async-pool-task-executor/readme)](https://github.com/igrigorik/ga-beacon)
 
 ## Async Pool Task Executor
 
